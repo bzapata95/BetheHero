@@ -17,7 +17,7 @@ Be The Hero
 [//]: # "Add your gifs/images here:"
 
 <div>
-  <img src="./.github/webBethehero.gif" alt="Web" height="425"> 
+  <img src="./.github/webBethehero2.gif" alt="Web" height="425"> 
   <img src="./.github/mobileBethehero.gif" alt="Mobile" height="425">
 </div>
 
