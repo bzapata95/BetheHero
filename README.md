@@ -17,8 +17,8 @@ Be The Hero
 [//]: # "Add your gifs/images here:"
 
 <div>
-  <img src="./.github/webBethehero.gif" alt="Web" height="425">
-  <img src="./.github/mobileBethehero.mp4" alt="Mobile" height="425">
+  <img src="./.github/webBethehero.gif" alt="Web" height="425"> 
+  <img src="./.github/mobileBethehero.gif" alt="Mobile" height="425">
 </div>
 
 <hr />
@@ -56,6 +56,10 @@ This app features all the latest tools and practices in mobile development!
 3. Run `yarn start` to start mobile application
 
 **Routes in Insomnia**
+
+Import to insominia for test all routes
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fbzapata95%2FBetheHero%2Fmaster%2Fexport.json)
 
 ## License
 
